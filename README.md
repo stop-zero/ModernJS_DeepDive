@@ -1,2 +1,2 @@
-# ModernJs_DeepDive
-📕 ModernJs_DeepDive Study
+# ModernJS_DeepDive
+📕 ModernJS_DeepDive Study
