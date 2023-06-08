@@ -1,6 +1,5 @@
 // 변수에 여러 개의 값을 저장하는 방법
 //  => 배열, 객체를 사용하여 그룹화
-
 const userId = 1;
 const userName = 'Lee';
 
@@ -11,5 +10,4 @@ const users = [
   { id: 2, name: 'Kim' },
 ];
 
-console.log(result);
-let result;
+
